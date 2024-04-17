@@ -1,53 +1,10 @@
-# Perfil de Programador Junior 🚀
+# Hola, Mi Nombre Es Angel PM 🚀
 
-Un **Programador Junior** es un apasionado por la programación de software que está en el comienzo de su carrera. Este profesional tiene conocimientos y experiencia en tecnologías como Laravel, Angular y NestJS, y está ansioso por aprender y crecer en el mundo del desarrollo de software.
+Soy un **Programador Junior** con conocimientos en Desarrollo Web en Html, Css, JavaScript, TypeScript, React, Express, Nestjs, Angular.
+Ademas de Contar Con Conocimientos en Desarrollo Movil en Java, Dart, Fluter.
+Tambien tengo conocimiento de C++, C#, Python, Docker, Unity, RabbitMQ, Vs Code, Visual Studio, Linux, Ubuntu.
 
-## Responsabilidades 📋
-
-Las responsabilidades típicas de un Programador Junior que se especializa en Laravel, Angular y NestJS incluyen:
-
-- 💻 **Desarrollo con Laravel y NestJS**: Escribir y mantener código utilizando los marcos de desarrollo web Laravel y NestJS para crear aplicaciones robustas y eficientes.
-
-- 🔄 **Interfaz de Usuario con Angular**: Colaborar en el desarrollo de la interfaz de usuario utilizando el marco de trabajo Angular para crear experiencias de usuario atractivas y dinámicas.
-
-- 🐞 **Depuración de Errores**: Identificar y resolver errores en el código para asegurarse de que las aplicaciones funcionen sin problemas.
-
-- 🤝 **Colaboración en Equipos**: Trabajar en estrecha colaboración con diseñadores y desarrolladores senior para lograr los objetivos del proyecto.
-
-- 📚 **Aprendizaje Continuo**: Estar constantemente al tanto de las últimas tendencias y avances en Laravel, Angular y NestJS, y aplicar ese conocimiento en el trabajo diario.
-
-- 📖 **Documentación Técnica**: Crear documentación técnica detallada para describir la arquitectura y el funcionamiento de las aplicaciones desarrolladas.
-
-- 🧪 **Pruebas y Control de Calidad**: Participar en pruebas de software y garantizar la calidad del código producido.
-
-## Habilidades y Conocimientos 🧠
-
-Un Programador Junior especializado en Laravel, Angular y NestJS generalmente posee:
-
-- Conocimientos sólidos en Laravel y NestJS para la construcción de backend.
-
-- Experiencia en el desarrollo de aplicaciones frontend utilizando Angular.
-
-- Familiaridad con conceptos avanzados de desarrollo web, como API RESTful y bases de datos.
-
-- Capacidad para resolver problemas de manera efectiva y aprender de forma autodidacta.
-
-- Excelentes habilidades de comunicación y una actitud de trabajo en equipo.
-
-- Un deseo constante de aprender y crecer en su carrera en desarrollo de software.
-
-## Educación y Formación 📚
-
-Un Programador Junior con experiencia en Laravel, Angular y NestJS puede haber obtenido su conocimiento a través de:
-
-- Cursos y tutoriales en línea específicos para estas tecnologías.
-
-- Programas de formación en desarrollo web y aplicaciones.
-
-- Proyectos personales y colaborativos para aplicar los conocimientos adquiridos.
-
-## Progreso Profesional 🚀
-
-Con el tiempo y la experiencia, un Programador Junior especializado en Laravel, Angular y NestJS puede avanzar en su carrera y convertirse en un Programador Senior, un Arquitecto de Software o un experto en desarrollo web full-stack.
-
-En resumen, un Programador Junior apasionado por Laravel, Angular y NestJS es un profesional en crecimiento que está listo para contribuir en proyectos desafiantes y construir una carrera exitosa en el emocionante mundo del desarrollo de software. 🌟
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nestjs,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,docker,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,vscode,visualstudio,linux,ubuntu)](https://skillicons.dev)
